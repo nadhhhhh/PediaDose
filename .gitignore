@@ -1,0 +1,29 @@
+# PediaDose .gitignore
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
+
+# XAMPP / PHP specific
+error_log
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Backup folder (optional, but good to ignore if it's large and unnecessary for new setups)
+backup_v1/
